@@ -108,6 +108,18 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=HamzaSE007&color=00d4ff&style=flat-square&label=Profile+Views)
+
+### ✨ Thanks for visiting! Drop a ⭐ if you like my work!
+
+</div>
+
+---
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=HamzaSE007&color=00d4ff&style=flat-square&label=Profile+Views)
 
 ### 🌟 If you like my work, consider starring my repositories!
