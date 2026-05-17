@@ -96,6 +96,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/HamzaSE007/HamzaSE007/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HamzaSE007&color=00d4ff&style=flat-square&label=Profile+Views)
